@@ -1,0 +1,10 @@
+Menentukan bilangan pembagi terkecil selain angka 1 dan 2
+input angka
+input pembagi
+pembagi harus kecil sama dengan angka dan bukan 1 dan 2
+seleksi dari pembagi terkecil setelah 1 dan 2
+if hasil sama dengan nol
+print angka
+else
+print angka
+Endif

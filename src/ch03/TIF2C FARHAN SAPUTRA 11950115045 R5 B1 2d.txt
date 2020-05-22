@@ -1,0 +1,5 @@
+Tentukan angka yang dicari
+jika hasil antara pembagi dengan angka dibagi dua sama dengan nol
+angka bukan bilangan prima
+jika hasil antara pembagi dengan angka dibagi dua sama dengan tidak sama dengan nol
+angka merupakan bilangan prima 

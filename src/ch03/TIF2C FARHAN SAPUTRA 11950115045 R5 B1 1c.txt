@@ -1,0 +1,8 @@
+Menentukan bilangan pembagi terkecil selain angka 1 dan 2
+
+Tentukan angka yang akan dibagi
+Pembagi merupakan angka terkecil selain 1 dan 2
+jika hasil sama dengan nol
+Pembagi terkecil diketahui
+jika hasil tidak sama dengan nol
+angka adalah pembagi terkecil

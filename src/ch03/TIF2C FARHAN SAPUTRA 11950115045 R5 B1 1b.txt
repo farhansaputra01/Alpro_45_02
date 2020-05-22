@@ -1,0 +1,4 @@
+Menentukan nilai tertinggi antara variabel x, y dan z
+1. Tentukan nilai dari variabel x, y dan z
+2. Seleksi nilai tertinggi antara x, y dan z
+3. Nilai tertinggi di ketahui

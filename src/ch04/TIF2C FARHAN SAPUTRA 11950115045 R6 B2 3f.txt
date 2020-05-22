@@ -1,0 +1,12 @@
+Menampilkan angka-angka ganjil yang diapit oleh angka genap di dalam array
+
+input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
+
+for awal=0; i < panjang array-1; i++
+    hasil = angka[awal] - 4
+    sisabagi = angka[awal] % 2
+
+    if sisabagi == 1
+	print angka[awal]
+	end if
+end for

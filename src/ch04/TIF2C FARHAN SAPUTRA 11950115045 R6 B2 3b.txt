@@ -1,0 +1,18 @@
+mencari sebuah angka di dalam array
+
+input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
+
+input angka yang akan dicari
+hasil=false
+
+for awal=0; awal<= panjang array; awal++
+    if nilai == angka array[i]
+        hasil=true
+    end if
+end for
+    if hasil
+        print "angka ditemukan"
+    else
+	print "angka tidak ditemukan"
+    end if
+ 

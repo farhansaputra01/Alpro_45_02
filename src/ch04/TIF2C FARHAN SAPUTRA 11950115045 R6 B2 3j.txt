@@ -1,0 +1,19 @@
+Menampilkan selisih angka-angka genap dengan angka setelahnya yang genap pula
+
+input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
+
+for awal=0; awal<panjang array-2; awal++ 
+
+    a = i+1
+    b = angka[awal] - angka[a]
+    c = angka[a] - angka[awal]
+    d = angka[awal] % 2
+    e = angka[a] % 2
+
+    	if ( angka[a] > angka[awal] ) && ( e==0 ) && ( d==0 )
+	   print c
+	else if ( angka[a] < angka[awal] ) && ( e==0 ) && ( d==0 )
+	    print b
+	end if
+    end if
+end for

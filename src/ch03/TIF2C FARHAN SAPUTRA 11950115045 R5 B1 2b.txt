@@ -1,0 +1,5 @@
+Menentukan nilai tertinggi antara variabel x, y, dan z
+
+input angka variabel x, y, dan z
+seleksi angka yang tertinggi nilainya
+print angka tertinggi

@@ -1,0 +1,19 @@
+Menghitung jumlah angka-angka selisih dalam array
+
+input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
+
+hasil=0
+
+for awal=0; awal<panjang array-1; awal++
+
+    a = awal + 1
+    b = angka[awal] - angka[a]
+    c = angka[a] - angka[awal]
+
+    if angka[a]>angka[awal]
+	hasil+ = c
+    else if angka[a] < angka[awal]
+	hasil+ = b
+    end if
+end for
+    print hasil
