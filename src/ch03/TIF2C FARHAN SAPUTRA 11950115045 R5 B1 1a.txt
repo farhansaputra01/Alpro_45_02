@@ -1,4 +1,0 @@
-Menentukan nilai tertinggi antara variabel x dan y
-1. Tentukan nilai dari variabel x dan y
-2. Seleksi nilai tertinggi antara x dan y
-3. Nilai tertinggi di ketahui

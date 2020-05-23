@@ -1,8 +1,0 @@
-Menampilkan semua nilai di dalam array
-
-input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
-
-for awal=0; awal<= panjang array angka; awal++
-    print angka[awal]
-end for
-
